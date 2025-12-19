@@ -137,3 +137,9 @@ var x = prompt("Write anything")
 document.write(" User Input: " + x +"<br>" )
 document.write("Last character of input: "+ x.slice(-1))
 
+
+
+
+
+
+var z = ""
